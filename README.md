@@ -10,7 +10,7 @@
 - Structure designed in Siemens NX and components 3D printed/laser cut
 - Successful navigation system after deployment in water
 
-Please see the report in this repository for a detailed study on this project.
+Please see the <a href="https://github.com/Maritime-Mavericks/Programming/blob/main/LiSa_boat_0_2.pdf">report</a> in this repository for a detailed study on this project.
 
 The <a href="https://github.com/HritikRC/Magnetometer-Simulation">Magnetometer Simulation</a> project was used as a visualisation tool for this project and to understand and incorporate the IMU properly into the navigation system.
 
