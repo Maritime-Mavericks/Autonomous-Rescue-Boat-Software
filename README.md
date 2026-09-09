@@ -1,8 +1,9 @@
-# Programming
+# Project Overview
 
-Here goes all the code files and programs for the project. Examples of files are:
-- C files for the Arduino
-- Data files (json, csv, txt etc.)
-- Images (png, jpg etc.)
-
-
+**Goal**: Develop a working prototype of a boat autonomously navigating exactly to a person offshore and bringing them back to shore.
+- Powered by T200 Thruster with force-power tests in a water tank
+- Entire control system programmed in Embedded C to Atmega328p
+- Navigation system with IMU, GPS, RF modules, and automatic calibration
+- Amplifiers, filters, peak-detectors circuits for Sonar (obstacle avoidance)
+- Structure designed in Siemens NX and components 3D printed/laser cut
+- Successful navigation system after deployment in water
