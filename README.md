@@ -16,7 +16,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4E2DAQHupWOEJxpFMQ/profile-treasury-image-shrink_800_800/B4EZ_yMaS5HkAM-/0/1786474767962?e=1789556400&v=beta&t=HXEhOvKmn2UltfDq5_XiJEFKt-N4ttyZgKKkBYtYnXE"/></td>
+    <td>Final Deployment<img src="https://media.licdn.com/dms/image/v2/D4E2DAQHupWOEJxpFMQ/profile-treasury-image-shrink_800_800/B4EZ_yMaS5HkAM-/0/1786474767962?e=1789556400&v=beta&t=HXEhOvKmn2UltfDq5_XiJEFKt-N4ttyZgKKkBYtYnXE"/></td>
     <td>Final Deployment</td>
   </tr>
   <tr>
