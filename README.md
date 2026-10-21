@@ -20,11 +20,15 @@ The <a href="https://github.com/HritikRC/Magnetometer-Simulation">Magnetometer S
     <th>Description</th>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4E2DAQHupWOEJxpFMQ/profile-treasury-image-shrink_800_800/B4EZ_yMaS5HkAM-/0/1786474767962?e=1789556400&v=beta&t=HXEhOvKmn2UltfDq5_XiJEFKt-N4ttyZgKKkBYtYnXE"/></td>
+    <td><img width="1000" alt="final_deployment" src="https://github.com/user-attachments/assets/5fcdbd6b-faaa-48cd-9d7b-54d9ea6e9f0a" /></td>
     <td>Final Deployment</td>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4E2DAQHPJISGrBnhUA/profile-treasury-image-shrink_800_800/B4EZ_yMbHHJgAI-/0/1786474772063?e=1789556400&v=beta&t=9r_E1EYw3iJlg8d6_to61KC8eA2jk8SU0UWMnHQ1UFU"/></td>
-    <td>Software Testsg</td>
+    <td><img width="1000" alt="software_tests" src="https://github.com/user-attachments/assets/4d2359e9-c32f-4113-a4b4-56f65e3eba65" /></td>
+    <td>Software Tests</td>
   </tr>
 </table>
+
+<h2>Presentation</h2>
+<img width="500" alt="presentation" src="https://github.com/user-attachments/assets/af5b6e57-ea6e-4d5b-adc3-64c4b6eec6f8" />
+
