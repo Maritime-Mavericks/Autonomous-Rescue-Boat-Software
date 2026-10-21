@@ -20,15 +20,15 @@ The <a href="https://github.com/HritikRC/Magnetometer-Simulation">Magnetometer S
     <th>Description</th>
   </tr>
   <tr>
-    <td><img width="1000" alt="final_deployment" src="https://github.com/user-attachments/assets/5fcdbd6b-faaa-48cd-9d7b-54d9ea6e9f0a" /></td>
+    <td><img width="600" alt="final_deployment" src="https://github.com/user-attachments/assets/5fcdbd6b-faaa-48cd-9d7b-54d9ea6e9f0a" /></td>
     <td>Final Deployment</td>
   </tr>
   <tr>
-    <td><img width="1000" alt="software_tests" src="https://github.com/user-attachments/assets/4d2359e9-c32f-4113-a4b4-56f65e3eba65" /></td>
+    <td><img width="600" alt="software_tests" src="https://github.com/user-attachments/assets/4d2359e9-c32f-4113-a4b4-56f65e3eba65" /></td>
     <td>Software Tests</td>
   </tr>
 </table>
 
 <h2>Presentation</h2>
-<img width="500" alt="presentation" src="https://github.com/user-attachments/assets/af5b6e57-ea6e-4d5b-adc3-64c4b6eec6f8" />
+<img width="300" alt="presentation" src="https://github.com/user-attachments/assets/af5b6e57-ea6e-4d5b-adc3-64c4b6eec6f8" />
 
